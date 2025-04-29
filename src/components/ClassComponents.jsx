@@ -6,7 +6,8 @@ class MeuComponente extends Component {
   render() {
     return (
       <div>
-        Olá, sou um componente de classe!
+       <h4>Descritivo Series </h4>
+       
       </div>
     );
   }

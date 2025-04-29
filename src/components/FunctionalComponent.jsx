@@ -2,7 +2,7 @@ function FunctionalComponent() {
 
     return (
         <div>
-            <h2> Julia Testando o componente</h2>
+            <h2> Series Variadas</h2>
         </div>
     );
 }

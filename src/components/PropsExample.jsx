@@ -1,10 +1,10 @@
 import React from 'react'
 
-const PropsExample = (props) => {
+const PropsExample = ({nome, genero}) => {
   return (
     <div>
-        <h3>Olá {props.nome}</h3>
-        <p> Tenho {props.idade} anos.</p>
+        <h3>Série {nome}</h3>
+        <p> do genero {genero} </p>
     </div>
   )
 }
